@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="527.6524"
+   height="520.41193"
+   viewBox="0 0 139.60803 137.69233"
+   version="1.1"
+   id="svg12"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <g
+     id="layer1"
+     transform="translate(3.3525085,2.394649)">
+    <rect
+       style="fill:#00205b;fill-opacity:1;stroke-width:0.264357"
+       id="rect263"
+       width="139.60803"
+       height="137.69232"
+       x="-3.3525085"
+       y="-2.394649" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;white-space:pre;inline-size:59.3872;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="20.354517"
+       y="17.720402"
+       id="text4280"
+       transform="translate(26.629765,-3.5919735)"><tspan
+         x="20.354517"
+         y="17.720402"
+         id="tspan368">Prediction #1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;white-space:pre;inline-size:116.619;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="20.354517"
+       y="17.720402"
+       id="text4280-0"
+       transform="translate(-14.724085,11.463864)"><tspan
+         x="20.354517"
+         y="17.720402"
+         id="tspan370">Selection: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;white-space:pre;inline-size:116.619;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="20.354517"
+       y="17.720402"
+       id="text4280-0-0"
+       transform="translate(-15.469167,19.366206)"><tspan
+         x="20.354517"
+         y="17.720402"
+         id="tspan372">Toronto Maple Leafs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;white-space:pre;inline-size:59.3872;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="20.354517"
+       y="17.720402"
+       id="text4280-0-1"
+       transform="translate(-15.17378,32.297309)"><tspan
+         x="20.354517"
+         y="17.720402"
+         id="tspan374">Predictor: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;fill:#ffffff"
+       x="20.354517"
+       y="17.720402"
+       transform="translate(-15.415515,52.651826)"
+       id="text13">Timestamp:</text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;fill:#ffffff"
+       x="20.354517"
+       y="17.720402"
+       transform="translate(-14.283247,65.143367)"
+       id="text15">09-25-2022</text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;white-space:pre;inline-size:190.135;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="20.354517"
+       y="17.720402"
+       id="text4280-0-2"
+       transform="translate(-14.990237,39.720721)"><tspan
+         x="20.354517"
+         y="17.720402"
+         id="tspan376">0xCe420CA2a9686512ee4E01976E1fBeCA2B5C4e99</tspan></text>
+  </g>
+</svg>
