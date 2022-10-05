@@ -1,26 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="527.6524"
-   height="520.41193"
-   viewBox="0 0 139.60803 137.69233"
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
    version="1.1"
    id="svg12"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Template.svg"
+   inkscape:export-filename="Template.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="134.35029"
+     inkscape:cy="230.51681"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs9" />
   <g
-     id="layer1"
-     transform="translate(3.3525085,2.394649)">
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
     <rect
        style="fill:#00205b;fill-opacity:1;stroke-width:0.264357"
        id="rect263"
        width="139.60803"
        height="137.69232"
-       x="-3.3525085"
-       y="-2.394649" />
+       x="-3.1654198"
+       y="-1.833383" />
     <text
        xml:space="preserve"
        style="font-size:6.35px;white-space:pre;inline-size:59.3872;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -30,7 +56,7 @@
        transform="translate(26.629765,-3.5919735)"><tspan
          x="20.354517"
          y="17.720402"
-         id="tspan368">Prediction #1</tspan></text>
+         id="tspan690">Prediction #1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;white-space:pre;inline-size:116.619;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -40,17 +66,17 @@
        transform="translate(-14.724085,11.463864)"><tspan
          x="20.354517"
          y="17.720402"
-         id="tspan370">Selection: </tspan></text>
+         id="tspan692">Selection: </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6.35px;white-space:pre;inline-size:116.619;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       style="font-size:6.35px;white-space:pre;inline-size:93.42;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="20.354517"
        y="17.720402"
        id="text4280-0-0"
        transform="translate(-15.469167,19.366206)"><tspan
          x="20.354517"
          y="17.720402"
-         id="tspan372">Toronto Maple Leafs</tspan></text>
+         id="tspan694">Toronto Maple Leafs</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;white-space:pre;inline-size:59.3872;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -60,10 +86,10 @@
        transform="translate(-15.17378,32.297309)"><tspan
          x="20.354517"
          y="17.720402"
-         id="tspan374">Predictor: </tspan></text>
+         id="tspan696">Predictor: </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:6.35px;fill:#ffffff"
+       style="font-size:6.35px;fill:#ffffff;"
        x="20.354517"
        y="17.720402"
        transform="translate(-15.415515,52.651826)"
@@ -84,6 +110,8 @@
        transform="translate(-14.990237,39.720721)"><tspan
          x="20.354517"
          y="17.720402"
-         id="tspan376">0xCe420CA2a9686512ee4E01976E1fBeCA2B5C4e99</tspan></text>
+         id="tspan698">0xCe420CA2a9686512ee4E01976E1fBeCA2B5C4e99</tspan></text>
   </g>
 </svg>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+

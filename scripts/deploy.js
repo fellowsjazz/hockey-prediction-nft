@@ -7,13 +7,13 @@
 const hre = require("hardhat");
 
 async function main() {
-  const NhlWinnerPrediction = await hre.ethers.getContractFactory("NhlWinnerPrediction");
-  const nhlWinnerPrediction = await NhlWinnerPrediction.deploy();
+  const NHLNFT = await hre.ethers.getContractFactory("NHLNFT", {libraries: { NhlMetaDataGenerator: "0xc422c5bf7d79608b31e17a27ef555895adf70d4a"}});
+  const nHLNFT = await NHLNFT.deploy();
 
-  await nhlWinnerPrediction.deployed();
+  await nHLNFT.deployed();
 
   console.log(
-    `deployed to ${nhlWinnerPrediction.address}`
+    `deployed to ${nHLNFT.address}`
   );
 }
 

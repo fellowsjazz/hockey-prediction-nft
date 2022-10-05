@@ -18,6 +18,9 @@ a {
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
+    background-color: #c0e4fc;
+    font-family: "Viga", sans-serif;
+    
   }
   body {
     color: white;

@@ -1,4 +1,5 @@
 require("@nomicfoundation/hardhat-toolbox");
+require("hardhat-contract-sizer");
 
 const dotenv = require("dotenv")
 dotenv.config()
@@ -9,6 +10,7 @@ module.exports = {
   etherscan:{
     apiKey: "YKN4B5K5F6J7BVHFRWJX3BV1UVAUVYYDKE"
   },
+  
   networks: {
     rinkeby: {
       url: "https://rinkeby.infura.io/v3/2bc94932a0c4464f81e2d3adab12ccb0",
