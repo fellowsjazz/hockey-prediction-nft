@@ -11,7 +11,7 @@ import {
 } from "@chakra-ui/react";
 import {usePrepareContractWrite, useContractWrite} from 'wagmi'
 
-import NHLNFT from "../artifacts/contracts/NHLNFT.sol/NHLNFT.json"
+import NHLNFT from "./NHLNFT.json"
 
 
 export default function MintButton(props) {
