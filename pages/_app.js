@@ -6,7 +6,7 @@ import { alchemyProvider } from "wagmi/providers/alchemy";
 import { publicProvider } from "wagmi/providers/public";
 import { ChakraProvider, extendTheme } from "@chakra-ui/react";
 
-import theme from "./theme";
+
 import '@fontsource/viga/400.css'
 
 const { chains, provider } = configureChains(
@@ -27,7 +27,7 @@ const wagmiClient = createClient({
 
 function MyApp({ Component, pageProps }) {
   return (
-    <ChakraProvider theme={theme}>
+    <ChakraProvider>
       <WagmiConfig client={wagmiClient}>
         <RainbowKitProvider chains={chains}>
           <Component {...pageProps} />
