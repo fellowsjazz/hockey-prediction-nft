@@ -19,7 +19,7 @@ export default function Header() {
         <a href={"https://etherscan.io/address/0xd8f3baa53d4541547a81453911183ccd0035c4f2"} target={"_blank"} rel="noreferrer"><Text mr={"1rem"}>Contract</Text></a>
         <Popover>
           <PopoverTrigger>
-          <Text>How it's Made</Text>
+          <Text>How it&#39;s Made</Text>
           </PopoverTrigger>
           <PopoverContent>
             <PopoverArrow />
@@ -30,7 +30,7 @@ export default function Header() {
               <br/><br/>
               Normally, NFTs are &#34;pointers&#34; to content, like images, videos, audio, and metadata (i.e. the data that tells NFT websites like opensea all kinds of info), that are stored in a different location, like a webserver, cloud database, or decentralized storage like IPFS!
               <br/><br/>
-              Cup Pick is different, because it doesn't use ANY outside storage providers - everything is stored on the block chain!
+              Cup Pick is different, because it doesn&#39;t use ANY outside storage providers - everything is stored on the block chain!
               <br/><br/>
               That means that once a &#34;Cup Pick Prediction&#34; is minted, its attributes (like team selection, prediction date, and minter address) can never be changed!
               <br/><br/>
