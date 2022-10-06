@@ -32,8 +32,8 @@ useEffect(()=>{
             y2="300"
             gradientUnits="userSpaceOnUse"
           >
-            <stop offset="0" stopColor={teamInfo[0]} /> // Dark Color
-            <stop offset="1" stopColor={teamInfo[1]}  /> // Light Color
+            <stop offset="0" stopColor={teamInfo[0]} /> 
+            <stop offset="1" stopColor={teamInfo[1]}  /> 
           </linearGradient>
 
         </defs>

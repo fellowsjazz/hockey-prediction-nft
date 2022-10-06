@@ -128,7 +128,7 @@ export default function PredictionCreate() {
 
         <Select variant="filled" onChange={(e) => selectHandler(e)}>
           {abbrArray.map((v) => {
-            return <option value={v}>{teamInfo[v][2]}</option>;
+            return <option value={v} key={v}>{teamInfo[v][2]}</option>;
           })}
         </Select>
         <MintButton
