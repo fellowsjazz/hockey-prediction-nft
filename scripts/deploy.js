@@ -7,13 +7,22 @@
 const hre = require("hardhat");
 
 async function main() {
-  const NHLNFT = await hre.ethers.getContractFactory("NHLNFT", {libraries: { NhlMetaDataGenerator: "0xc422c5bf7d79608b31e17a27ef555895adf70d4a"}});
+  const NhlMetaDataGenerator = await hre.ethers.getContractFactory("NhlMetaDataGenerator");
+  const nhlMetaDataGenerator = await NhlMetaDataGenerator.deploy();
+
+  await nhlMetaDataGenerator.deployed();
+
+  console.log(
+    `generator deployed to ${nhlMetaDataGenerator.address}`
+  );
+
+  const NHLNFT = await hre.ethers.getContractFactory("NHLNFT", {libraries: { NhlMetaDataGenerator: nhlMetaDataGenerator.address}});
   const nHLNFT = await NHLNFT.deploy();
 
   await nHLNFT.deployed();
 
   console.log(
-    `deployed to ${nHLNFT.address}`
+    `nft contract deployed to ${nHLNFT.address}`
   );
 }
 

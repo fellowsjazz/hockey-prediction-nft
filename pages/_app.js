@@ -10,7 +10,7 @@ import theme from "./theme";
 import '@fontsource/viga/400.css'
 
 const { chains, provider } = configureChains(
-  [chain.goerli],
+  [chain.mainnet],
   [alchemyProvider({ apiKey: process.env.ALCHEMY_ID }), publicProvider()]
 );
 

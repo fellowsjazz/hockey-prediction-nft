@@ -21,7 +21,7 @@ contract NHLNFT is ERC721Enumerable, Ownable {
 
     event NewToken(address _minter, uint256 _tokenId);
 
-    uint public limit = 1000;
+    
     uint256 public supply = 0;
     address public beneficiary = 0xCe420CA2a9686512ee4E01976E1fBeCA2B5C4e99;
 
@@ -46,7 +46,7 @@ contract NHLNFT is ERC721Enumerable, Ownable {
 
       uint256 tokenId = totalSupply() + 1;
 
-      require(tokenId <= limit, "reached max mint limit");
+      
       
       Prediction memory newPrediction = Prediction(
         tokenId, msg.sender, selection, block.timestamp, _colorOne, _colorTwo);
